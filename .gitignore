@@ -1,0 +1,48 @@
+# ===================================
+# 🔒 SECURITY - BẢO MẬT
+# ===================================
+# QUAN TRỌNG: Các file này chứa thông tin nhạy cảm
+# KHÔNG BAO GIỜ commit chúng lên GitHub!
+
+config.json
+.env
+*.env
+
+# ===================================
+# Node.js
+# ===================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log*
+
+# ===================================
+# Logs & Temp Files
+# ===================================
+logs/
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# ===================================
+# OS Files
+# ===================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===================================
+# IDE / Editor
+# ===================================
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/

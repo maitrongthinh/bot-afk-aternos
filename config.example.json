@@ -1,0 +1,30 @@
+{
+  "server_info": {
+    "ip": "your-server.aternos.me",
+    "port": 25565,
+    "version": "1.20.1"
+  },
+  "bot_account": {
+    "username": "Bot_AFK_2024",
+    "password": "YOUR_PASSWORD_HERE",
+    "auth_type": "offline"
+  },
+  "auth_settings": {
+    "login_cmd": "/login {pass}",
+    "register_cmd": "/register {pass} {pass}"
+  },
+  "features": {
+    "auto_reconnect": true,
+    "auto_eat": true,
+    "auto_equip": true,
+    "auto_sleep": true,
+    "combat_self_defense": true,
+    "accept_resource_pack": true,
+    "solve_math_captcha": true
+  },
+  "messages": [
+    "Xin chào mọi người!",
+    "Bot đang AFK",
+    "Chúc mọi người chơi game vui vẻ!"
+  ]
+}
