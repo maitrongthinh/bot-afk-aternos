@@ -1,0 +1,20 @@
+{
+  "name": "thinh-bot-afk-pro-v6",
+  "version": "6.0.0",
+  "description": "Bot AFK Minecraft Pro - Made by ThinhDZS1VN",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "minecraft-data": "^3.71.0",
+    "mineflayer": "^4.20.0",
+    "mineflayer-armor-manager": "^2.0.1",
+    "mineflayer-auto-eat": "^5.0.3",
+    "mineflayer-pathfinder": "^2.4.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "server_info": {
+    "ip": "gb-lon01.na1.host",
+    "port": 30531,
+    "version": false
+  },
+  "bot_account": {
+    "username": "Thinh_AFK_Pro",
+    "auth_type": "offline",
+    "password": "MatKhauCuaThinh"
+  },
+  "features": {
+    "auto_reconnect": true,
+    "accept_resource_pack": true,
+    "combat_self_defense": true,
+    "auto_sleep": true,
+    "solve_math_captcha": true,
+    "auto_eat": true,
+    "auto_equip": true
+  },
+  "auth_settings": {
+    "register_cmd": "/register {pass} {pass}",
+    "login_cmd": "/login {pass}"
+  },
+  "entry_settings": {
+    "move_forward_seconds": 3,
+    "chat_delay_seconds": 2
+  },
+  "messages": [
+    "Bot AFK Pro V6 đang giữ server online!",
+    "Được phát triển bởi ThinhDZS1VN",
+    "Hệ thống vận hành ổn định 24/7"
+  ]
+}
